@@ -10,7 +10,7 @@ app.disable('etag');
 
 // Config
 const PORT = 3001;
-const HOSTNAME = "http://leaking.localhost.net:" + PORT;
+const HOSTNAME = "http://141.223.175.203:" + PORT;
 const CHARSET = ".0123456789abcdefghijklmnopqrstuvwxyz"
 const PREFIX = '"';
 const LOG = 4;
